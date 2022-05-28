@@ -7,6 +7,7 @@
 - 💬 Ask me about C#, HTML ,CSS, JAVASCRİPT
 - 📫 How to reach me: https://www.linkedin.com/in/bet%C3%BCl-k%C3%B6k-%C3%B6l%C3%A7er-364917227/
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=zluvsand"/>
 
 ### 🔧 Languages and Tools:
 
