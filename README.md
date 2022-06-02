@@ -1,9 +1,6 @@
 <div class="">
 <h3>Hi I'm Betul 
-          <img data-target="animated-image.replacedImage" 
-          alt="wave.gif" class="AnimatedImagePlayer-animatedImage" 
-          src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px" 
-          style="display:block; opacity: 1; width:35px"></h3>
+          <g-emoji class="g-emoji" width="35px" alias="wave" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f44b.png">👋</g-emoji></h3>
 </div>
 - 🔭 I am currently working on an e-commerce site with .net core 5 based layered architecture.
 - 🌱 I’m currently learning React and Angular...
