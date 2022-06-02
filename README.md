@@ -1,4 +1,8 @@
-### Hi I'm Betul <img data-target="animated-image.replacedImage" alt="wave.gif" class="AnimatedImagePlayer-animatedImage" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px" style="display: block; opacity: 1;">
+<h3>Hi I'm Betul 
+          <img data-target="animated-image.replacedImage" 
+          alt="wave.gif" class="AnimatedImagePlayer-animatedImage" 
+          src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px" 
+          style="display:inline; opacity: 1; width:35px"></h3>
 
 - 🔭 I am currently working on an e-commerce site with .net core 5 based layered architecture.
 - 🌱 I’m currently learning React and Angular...
