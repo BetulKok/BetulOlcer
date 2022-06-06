@@ -1,7 +1,6 @@
-<div class="">
 <h3>Hi I'm Betul 
           <g-emoji class="g-emoji" width="35px" alias="wave" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f44b.png">👋</g-emoji></h3>
-</div>
+
 - 🔭 I am currently working on an e-commerce site with .net core 5 based layered architecture.
 - 🌱 I’m currently learning React and Angular...
 - 🤔 I’m looking for help with REACT
